@@ -1,7 +1,9 @@
 ## Hi there 👋
+![Banner Github - Gabriel Campos](https://github.com/user-attachments/assets/2e20c5d5-3ace-4a42-ad57-c03655320400)
 
 <!--
-**GabrielCampoz/GabrielCampoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GabrielCampoz/GabrielCampoz** is a ✨ _s![Uploading Banner Github - Gabriel Campos.png…]()
+pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
